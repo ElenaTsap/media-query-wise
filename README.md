@@ -1,1 +1,1 @@
-visit the project here: git push -u origin main
+visit the project here: https://elenatsap.github.io/media-query-wise/
